@@ -3,6 +3,11 @@
 
 Here you find graphics of keys from a keyboard as PNG graphics.
 
+## Uses
+```
+https://raw.githubusercontent.com/sunil1264/keyboard-key-by-code/main/key-by-code/{key-code}.png
+```
+
 ### Primary source
 
 Original keyboard SVG from https://commons.wikimedia.org/wiki/
