@@ -4,6 +4,7 @@
 Here you find graphics of keys from a keyboard as PNG graphics.
 
 ## Uses
+Replace {key-code} with your key code.
 ```
 https://raw.githubusercontent.com/sunil1264/keyboard-key-by-code/main/key-by-code/{key-code}.png
 ```
